@@ -25,12 +25,6 @@
 3. 🎉 Merged PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
 4. 💪 Opened PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
 5. 🗣 Commented on [#518](https://github.com/EddieHubCommunity/EddieBot/issues/518) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-🎉 Merged PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in
-[Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld) 4.
-💪 Opened PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in
-[Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld) 5.
-🗣 Commented on [#518](https://github.com/EddieHubCommunity/EddieBot/issues/518)
-in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <br />
