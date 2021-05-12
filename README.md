@@ -10,7 +10,9 @@ I'm Julian, a 22 year old Node developer from Southern Germany 🇩🇪
 <p align="center">👀 Into Backend-Development & DevOps - 🐰 Member of Eddiehub - ♥️ In love with TypeScript</p>
 <p align="center">🚀 Dealing with Azure - 🤓 Feel free to ask, I am glad if I can help - 🌴 Hip-Hop Listener</p>
 
-## Recent Activities
+<br/>
+<h2 align="center">Recent Activities</h2>
+
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#4](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/4) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
@@ -19,6 +21,7 @@ I'm Julian, a 22 year old Node developer from Southern Germany 🇩🇪
 4. 💪 Opened PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
 5. 🗣 Commented on [#518](https://github.com/EddieHubCommunity/EddieBot/issues/518) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
+
 <br/>
 <div align="center">
 <p float="left">
