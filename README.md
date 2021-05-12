@@ -24,7 +24,7 @@ I'm Julian, a 22 year old Node developer from Southern Germany 🇩🇪
 4. 💪 Opened PR [#6](https://github.com/Cahllagerfeld/Cahllagerfeld/pull/6) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
 5. 🗣 Commented on [#518](https://github.com/EddieHubCommunity/EddieBot/issues/518) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
-<br/><br/>
+<br/>
 <div align="center">
 <p float="left">
   <img class="img" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahllagerfeld" />
