@@ -9,6 +9,7 @@ I'm Julian, a 22 year old Node developer from Southern Germany 🇩🇪
 
 - 👀 Into Backend-Development & DevOps
 - 🐰 Member of Eddiehub
+- ♥️ In love with TypeScript
 - 🚀 Dealing with Azure
 - 🤓 Feel free to ask, I am glad if I can help
 - 🌴 Hip-Hop Listener
