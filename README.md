@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#1](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/1) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
-3. 🗣 Commented on [#1](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/1) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
-4. ❗️ Closed issue [#5](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/5) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
-5. ❗️ Closed issue [#2](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/2) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
+1. 🗣 Commented on [#518](https://github.com/EddieHubCommunity/EddieBot/issues/518) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#88](https://github.com/EddieHubCommunity/api/issues/88) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Closed issue [#1](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/1) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
+4. 🗣 Commented on [#1](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/1) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
+5. ❗️ Closed issue [#5](https://github.com/Cahllagerfeld/Cahllagerfeld/issues/5) in [Cahllagerfeld/Cahllagerfeld](https://github.com/Cahllagerfeld/Cahllagerfeld)
 <!--END_SECTION:activity-->
 
 <br />
