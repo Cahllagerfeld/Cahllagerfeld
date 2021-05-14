@@ -20,10 +20,10 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/EddieHubCommunity/api/pull/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Closed issue [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#99](https://github.com/EddieHubCommunity/api/issues/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#100](https://github.com/EddieHubCommunity/api/issues/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 💪 Opened PR [#100](https://github.com/EddieHubCommunity/api/pull/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Closed issue [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#29](https://github.com/EddieHubCommunity/api/issues/29) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 5. 🗣 Commented on [#99](https://github.com/EddieHubCommunity/api/issues/99) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
