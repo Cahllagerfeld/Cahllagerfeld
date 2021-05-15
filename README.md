@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/EddieHubCommunity/api/pull/104) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Opened issue [#37](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/37) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. 🎉 Merged PR [#523](https://github.com/EddieHubCommunity/EddieBot/pull/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#523](https://github.com/EddieHubCommunity/EddieBot/issues/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🎉 Merged PR [#100](https://github.com/EddieHubCommunity/api/pull/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 💪 Opened PR [#105](https://github.com/EddieHubCommunity/api/pull/105) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 💪 Opened PR [#104](https://github.com/EddieHubCommunity/api/pull/104) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Opened issue [#37](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/37) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. 🎉 Merged PR [#523](https://github.com/EddieHubCommunity/EddieBot/pull/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#523](https://github.com/EddieHubCommunity/EddieBot/issues/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 <br />
