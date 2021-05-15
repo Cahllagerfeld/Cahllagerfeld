@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/EddieHubCommunity/api/issues/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#17](https://github.com/Cahllagerfeld/setup-stargate/pull/17) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-3. ❗️ Closed issue [#16](https://github.com/Cahllagerfeld/setup-stargate/issues/16) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-4. 💪 Opened PR [#17](https://github.com/Cahllagerfeld/setup-stargate/pull/17) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-5. ❗️ Opened issue [#16](https://github.com/Cahllagerfeld/setup-stargate/issues/16) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+1. 🎉 Merged PR [#523](https://github.com/EddieHubCommunity/EddieBot/pull/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#523](https://github.com/EddieHubCommunity/EddieBot/issues/523) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🎉 Merged PR [#100](https://github.com/EddieHubCommunity/api/pull/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Closed issue [#95](https://github.com/EddieHubCommunity/api/issues/95) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#100](https://github.com/EddieHubCommunity/api/issues/100) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
