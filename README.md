@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-2. 🗣 Commented on [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-3. 🎉 Merged PR [#11](https://github.com/Cahllagerfeld/setup-stargate/pull/11) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-4. 💪 Opened PR [#11](https://github.com/Cahllagerfeld/setup-stargate/pull/11) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
-5. ❗️ Opened issue [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+1. 🎉 Merged PR [#12](https://github.com/Cahllagerfeld/setup-stargate/pull/12) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+2. ❗️ Closed issue [#7](https://github.com/Cahllagerfeld/setup-stargate/issues/7) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+3. 💪 Opened PR [#12](https://github.com/Cahllagerfeld/setup-stargate/pull/12) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+4. ❗️ Closed issue [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+5. 🗣 Commented on [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
 <!--END_SECTION:activity-->
 
 <br />
