@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-2. ❗️ Closed issue [#35](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/35) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. ❌ Reopened PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-4. ❌ Closed PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-5. 🗣 Commented on [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+1. ❗️ Opened issue [#10](https://github.com/Cahllagerfeld/setup-stargate/issues/10) in [Cahllagerfeld/setup-stargate](https://github.com/Cahllagerfeld/setup-stargate)
+2. 🎉 Merged PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+3. ❗️ Closed issue [#35](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/35) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. ❌ Reopened PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+5. ❌ Closed PR [#36](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/36) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
 <!--END_SECTION:activity-->
 
 <br />
