@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#539](https://github.com/EddieHubCommunity/EddieBot/pull/539) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#539](https://github.com/EddieHubCommunity/EddieBot/issues/539) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 💪 Opened PR [#112](https://github.com/EddieHubCommunity/api/pull/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#541](https://github.com/EddieHubCommunity/EddieBot/issues/541) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#539](https://github.com/EddieHubCommunity/EddieBot/pull/539) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#539](https://github.com/EddieHubCommunity/EddieBot/issues/539) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. 🗣 Commented on [#112](https://github.com/EddieHubCommunity/api/issues/112) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
