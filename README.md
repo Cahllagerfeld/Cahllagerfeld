@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. ❗️ Opened issue [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 💪 Opened PR [#2](https://github.com/Cahllagerfeld/eddiehub-microservices/pull/2) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
-4. ❗️ Opened issue [#1](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/1) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
-5. ❗️ Opened issue [#38](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/38) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+1. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/3) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
+2. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Opened issue [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 💪 Opened PR [#2](https://github.com/Cahllagerfeld/eddiehub-microservices/pull/2) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
+5. ❗️ Opened issue [#1](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/1) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
 <!--END_SECTION:activity-->
 
 <br />
