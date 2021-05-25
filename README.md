@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/3) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
-2. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Opened issue [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 💪 Opened PR [#2](https://github.com/Cahllagerfeld/eddiehub-microservices/pull/2) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
-5. ❗️ Opened issue [#1](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/1) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
+1. ❗️ Opened issue [#2](https://github.com/Cahllagerfeld/generic-frontend/issues/2) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+2. ❗️ Opened issue [#1](https://github.com/Cahllagerfeld/generic-frontend/issues/1) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+3. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/eddiehub-microservices/issues/3) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
+4. 🗣 Commented on [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Opened issue [#113](https://github.com/EddieHubCommunity/api/issues/113) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
