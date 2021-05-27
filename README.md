@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Cahllagerfeld/generic-frontend/issues/6) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
-2. ❗️ Opened issue [#5](https://github.com/Cahllagerfeld/generic-frontend/issues/5) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
-3. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/generic-frontend/issues/4) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
-4. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/generic-frontend/issues/3) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
-5. ❗️ Opened issue [#2](https://github.com/Cahllagerfeld/generic-frontend/issues/2) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+1. 🗣 Commented on [#50](https://github.com/EddieHubCommunity/api/issues/50) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#50](https://github.com/EddieHubCommunity/api/issues/50) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. ❗️ Opened issue [#6](https://github.com/Cahllagerfeld/generic-frontend/issues/6) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+4. ❗️ Opened issue [#5](https://github.com/Cahllagerfeld/generic-frontend/issues/5) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+5. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/generic-frontend/issues/4) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
 <!--END_SECTION:activity-->
 
 <br />
