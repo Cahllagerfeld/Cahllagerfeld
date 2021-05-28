@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. ❗️ Opened issue [#7](https://github.com/Cahllagerfeld/generic-frontend/issues/7) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+2. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 3. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 💪 Opened PR [#116](https://github.com/EddieHubCommunity/api/pull/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#50](https://github.com/EddieHubCommunity/api/issues/50) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 💪 Opened PR [#116](https://github.com/EddieHubCommunity/api/pull/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
