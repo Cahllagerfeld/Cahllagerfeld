@@ -20,10 +20,10 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/adithyapaib/urml.ml/issues/1) in [adithyapaib/urml.ml](https://github.com/adithyapaib/urml.ml)
-2. ❗️ Opened issue [#7](https://github.com/Cahllagerfeld/generic-frontend/issues/7) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
-3. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 💪 Opened PR [#2](https://github.com/adithyapaib/urml.ml/pull/2) in [adithyapaib/urml.ml](https://github.com/adithyapaib/urml.ml)
+2. ❗️ Opened issue [#1](https://github.com/adithyapaib/urml.ml/issues/1) in [adithyapaib/urml.ml](https://github.com/adithyapaib/urml.ml)
+3. ❗️ Opened issue [#7](https://github.com/Cahllagerfeld/generic-frontend/issues/7) in [Cahllagerfeld/generic-frontend](https://github.com/Cahllagerfeld/generic-frontend)
+4. 🗣 Commented on [#72](https://github.com/EddieHubCommunity/api/issues/72) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 5. 🗣 Commented on [#116](https://github.com/EddieHubCommunity/api/issues/116) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
