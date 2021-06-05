@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/EddieHubCommunity/api/issues/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🗣 Commented on [#118](https://github.com/EddieHubCommunity/api/issues/118) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Opened issue [#117](https://github.com/EddieHubCommunity/api/issues/117) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. 💪 Opened PR [#47](https://github.com/jansepke/anno-toolkit/pull/47) in [jansepke/anno-toolkit](https://github.com/jansepke/anno-toolkit)
-5. ❗️ Opened issue [#46](https://github.com/jansepke/anno-toolkit/issues/46) in [jansepke/anno-toolkit](https://github.com/jansepke/anno-toolkit)
+1. 🗣 Commented on [#117](https://github.com/EddieHubCommunity/api/issues/117) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 💪 Opened PR [#119](https://github.com/EddieHubCommunity/api/pull/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#108](https://github.com/EddieHubCommunity/api/issues/108) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
