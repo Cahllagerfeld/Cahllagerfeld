@@ -21,10 +21,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 💪 Opened PR [#558](https://github.com/EddieHubCommunity/EddieBot/pull/558) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❗️ Opened issue [#126](https://github.com/EddieHubCommunity/api/issues/126) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 💪 Opened PR [#558](https://github.com/EddieHubCommunity/EddieBot/pull/558) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Opened issue [#126](https://github.com/EddieHubCommunity/api/issues/126) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
