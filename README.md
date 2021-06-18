@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🗣 Commented on [#123](https://github.com/EddieHubCommunity/api/issues/123) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Opened issue [#1](https://github.com/NiHoel/Anno1404Calculator/issues/1) in [NiHoel/Anno1404Calculator](https://github.com/NiHoel/Anno1404Calculator)
-4. ❗️ Opened issue [#129](https://github.com/EddieHubCommunity/api/issues/129) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#124](https://github.com/EddieHubCommunity/api/issues/124) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 💪 Opened PR [#562](https://github.com/EddieHubCommunity/EddieBot/pull/562) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🗣 Commented on [#123](https://github.com/EddieHubCommunity/api/issues/123) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Opened issue [#1](https://github.com/NiHoel/Anno1404Calculator/issues/1) in [NiHoel/Anno1404Calculator](https://github.com/NiHoel/Anno1404Calculator)
+5. ❗️ Opened issue [#129](https://github.com/EddieHubCommunity/api/issues/129) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
