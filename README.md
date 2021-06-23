@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/AnaisUrlichs/MusicSearch/pull/19) in [AnaisUrlichs/MusicSearch](https://github.com/AnaisUrlichs/MusicSearch)
-2. ❗️ Opened issue [#18](https://github.com/AnaisUrlichs/MusicSearch/issues/18) in [AnaisUrlichs/MusicSearch](https://github.com/AnaisUrlichs/MusicSearch)
-3. 🗣 Commented on [#50](https://github.com/EddieHubCommunity/api/issues/50) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❌ Closed PR [#2](https://github.com/Cahllagerfeld/eddiehub-microservices/pull/2) in [Cahllagerfeld/eddiehub-microservices](https://github.com/Cahllagerfeld/eddiehub-microservices)
-5. 💪 Opened PR [#562](https://github.com/EddieHubCommunity/EddieBot/pull/562) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/4) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+2. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/3) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+3. 🎉 Merged PR [#2](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/2) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+4. 💪 Opened PR [#2](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/2) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+5. ❗️ Opened issue [#1](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/1) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
 <!--END_SECTION:activity-->
 
 <br />
