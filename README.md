@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#563](https://github.com/EddieHubCommunity/EddieBot/issues/563) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 🎉 Merged PR [#563](https://github.com/EddieHubCommunity/EddieBot/pull/563) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. ❗️ Closed issue [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-4. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/4) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
-5. ❗️ Opened issue [#3](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/3) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+1. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🗣 Commented on [#563](https://github.com/EddieHubCommunity/EddieBot/issues/563) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 🎉 Merged PR [#563](https://github.com/EddieHubCommunity/EddieBot/pull/563) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+4. ❗️ Closed issue [#561](https://github.com/EddieHubCommunity/EddieBot/issues/561) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+5. ❗️ Opened issue [#4](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/4) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
 <!--END_SECTION:activity-->
 
 <br />
