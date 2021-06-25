@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/6) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
-2. ❗️ Closed issue [#5](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/5) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
-3. 💪 Opened PR [#6](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/6) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
-4. ❗️ Opened issue [#5](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/5) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
-5. 🗣 Commented on [#119](https://github.com/EddieHubCommunity/api/issues/119) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. 🎉 Merged PR [#6](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/6) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+3. ❗️ Closed issue [#5](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/5) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+4. 💪 Opened PR [#6](https://github.com/Cahllagerfeld/vue-msteams-core-composable/pull/6) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
+5. ❗️ Opened issue [#5](https://github.com/Cahllagerfeld/vue-msteams-core-composable/issues/5) in [Cahllagerfeld/vue-msteams-core-composable](https://github.com/Cahllagerfeld/vue-msteams-core-composable)
 <!--END_SECTION:activity-->
 
 <br />
