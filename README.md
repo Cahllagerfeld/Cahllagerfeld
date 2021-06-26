@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#138](https://github.com/EddieHubCommunity/api/issues/138) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-2. 🎉 Merged PR [#39](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/39) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
-3. 🗣 Commented on [#1](https://github.com/elenajp/weatherApp/issues/1) in [elenajp/weatherApp](https://github.com/elenajp/weatherApp)
-4. ❗️ Opened issue [#1](https://github.com/elenajp/weatherApp/issues/1) in [elenajp/weatherApp](https://github.com/elenajp/weatherApp)
-5. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+2. ❗️ Opened issue [#138](https://github.com/EddieHubCommunity/api/issues/138) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🎉 Merged PR [#39](https://github.com/Cahllagerfeld/nestjs-astra-module/pull/39) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. 🗣 Commented on [#1](https://github.com/elenajp/weatherApp/issues/1) in [elenajp/weatherApp](https://github.com/elenajp/weatherApp)
+5. ❗️ Opened issue [#1](https://github.com/elenajp/weatherApp/issues/1) in [elenajp/weatherApp](https://github.com/elenajp/weatherApp)
 <!--END_SECTION:activity-->
 
 <br />
