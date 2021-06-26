@@ -22,9 +22,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 2. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. 🗣 Commented on [#142](https://github.com/EddieHubCommunity/api/issues/142) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#137](https://github.com/EddieHubCommunity/api/issues/137) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 4. 🗣 Commented on [#142](https://github.com/EddieHubCommunity/api/issues/142) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 💪 Opened PR [#142](https://github.com/EddieHubCommunity/api/pull/142) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. 🗣 Commented on [#142](https://github.com/EddieHubCommunity/api/issues/142) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
