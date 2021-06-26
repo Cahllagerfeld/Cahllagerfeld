@@ -8,7 +8,7 @@
   I'm Julian, a 22 year old Node developer from Germany 🇩🇪
 </p>
 <p align="center">
-  👀 Into Backend-Development & DevOps - 🐰 Member of Eddiehub - ♥️ In love with
+  👀 Into Fullstack-Development & DevOps - 🐰 Member of Eddiehub - ♥️ In love with
   TypeScript
 </p>
 <p align="center">
