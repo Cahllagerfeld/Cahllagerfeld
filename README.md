@@ -20,11 +20,11 @@
 <h2 align="center">Recent Activities</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/EddieHubCommunity/api/issues/148) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+1. 🗣 Commented on [#151](https://github.com/EddieHubCommunity/api/issues/151) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 2. 🗣 Commented on [#148](https://github.com/EddieHubCommunity/api/issues/148) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-3. ❗️ Opened issue [#147](https://github.com/EddieHubCommunity/api/issues/147) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-4. ❗️ Opened issue [#143](https://github.com/EddieHubCommunity/api/issues/143) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
-5. 🗣 Commented on [#142](https://github.com/EddieHubCommunity/api/issues/142) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+3. 🗣 Commented on [#148](https://github.com/EddieHubCommunity/api/issues/148) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+4. ❗️ Opened issue [#147](https://github.com/EddieHubCommunity/api/issues/147) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
+5. ❗️ Opened issue [#143](https://github.com/EddieHubCommunity/api/issues/143) in [EddieHubCommunity/api](https://github.com/EddieHubCommunity/api)
 <!--END_SECTION:activity-->
 
 <br />
