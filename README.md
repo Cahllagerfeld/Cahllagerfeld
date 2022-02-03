@@ -18,18 +18,6 @@
 
 <br />
 
-<br />
-<div align="center">
-  <p float="left">
-    <img
-      class="img"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahllagerfeld"
-    />
-    <img class="img" align="center"
-    src=https://github-readme-stats.vercel.app/api?username=Cahllagerfeld />
-  </p>
-</div>-->
 <div align="center">
   <img
     width="200"
