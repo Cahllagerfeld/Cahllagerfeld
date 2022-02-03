@@ -17,7 +17,6 @@
 </p>
 
 <br />
-<!--<h2 align="center">Recent Activities</h2>
 
 <br />
 <div align="center">
