@@ -12,7 +12,7 @@
   TypeScript
 </p>
 <p align="center">
-  🚀 Dealing with Azure - 🤓 Feel free to ask, I am glad if I can help - 🌴
+  🚀 Dealing with Sveltekit - 🤓 Feel free to ask, I am glad if I can help - 🌴
   Hip-Hop Listener
 </p>
 
