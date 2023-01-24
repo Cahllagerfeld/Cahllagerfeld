@@ -5,7 +5,7 @@
 <h1 align="center">Hello - Hallo - Glad to see you here!</h1>
 
 <p align="center">
-  I'm Julian, a 23 year old TypeScript developer from Germany 🇩🇪
+  I'm Julian, a 24 year old TypeScript developer from Germany 🇩🇪
 </p>
 <p align="center">
   👀 Into Fullstack-Development & DevOps  - ♥️ In love with
